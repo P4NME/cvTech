@@ -10,9 +10,9 @@ cvTech est une application de CVthèque basée sur Node.js qui permet aux recrut
 
 ### Installation
 Clonez le dépôt git :
-bash
-Copy code
+```
 git clone https://github.com/linnnux/cvTech.git
+```
 Installez les dépendances :
 ```
 cd cvTech
@@ -37,16 +37,16 @@ DB_DATABASE :le nom de la base de données
 DB_SECRET : a secret key used to sign the session ID cookie
 
 Technologies utilisées
-Node.js
-Express
-javaScript
-ejs
-mySql
-html5
-css3
+- Node.js
+- Express
+- javaScript
+- ejs
+- mySql
+- html5
+- css3
 
 ### Auteur
-cvTech a été créé par [nacim meziani]. N'hésitez pas à me contacter pour toute question ou suggestion.
+cvTech a été créé par [Nacim M]. N'hésitez pas à me contacter pour toute question ou suggestion.
 
 Licence
 cvTech est distribué sous la licence [MIT]. Consultez le fichier LICENSE pour plus d'informations.
